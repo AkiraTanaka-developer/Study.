@@ -15,10 +15,8 @@ section{
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px 10px rgba(10, 10, 10, 0.438);
-}
-div {
-    text-align: center;
-    padding: 8px;
+
+
 }
 footer{
     color: white;
