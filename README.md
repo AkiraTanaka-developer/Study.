@@ -1,8 +1,4 @@
 # Study
- Estudo de Linguagens da programação
+Repositório de estudo de linguagens HTML, CSS e JavaScript
 
-Repositório criado no curso em video 
 
-Alteração experimental. 
-
-Alteração experimental 2
